@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "C:/ahmed/tetrawave/_deps/raylib-build",
+		"source" : "_deps/raylib-src"
+	}
+}
